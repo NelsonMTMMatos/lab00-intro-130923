@@ -11,3 +11,4 @@ This practical class will provide an introduction to:
 ## Collaborators
 
 - Alex Davidson
+- João Lourenço
